@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-bansal-11716333a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:demonstrikk41@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/demonstrikkk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-02050D?style=for-the-badge&logo=react&logoColor=F4C779&labelColor=02050D&color=F4C779)]([https://github.com/demonstrikkk](https://yash-portfolio-zeta-eight.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-02050D?style=for-the-badge&logo=react&logoColor=F4C779&labelColor=02050D&color=F4C779)](https://yash-portfolio-zeta-eight.vercel.app/)
 
 </div>
 
