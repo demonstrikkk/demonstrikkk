@@ -214,17 +214,26 @@ I choose tools based on the problem rather than trying to force every project in
 
 ## GitHub activity
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=demonstrikkk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonstrikkk&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages"/>
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=demonstrikkk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    alt="GitHub Statistics" />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=demonstrikkk&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=demonstrikkk&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img width="75%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=demonstrikkk&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=demonstrikkk&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph"/>
+  <img width="95%"
+    src="https://raw.githubusercontent.com/demonstrikkk/demonstrikkk/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake Animation" />
 </p>
 
 ---
