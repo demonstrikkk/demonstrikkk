@@ -1,14 +1,18 @@
+<!--
+  YASH BANSAL — GitHub Profile README
+  Replace only the links marked [ADD LINK] when those projects get public repositories.
+-->
 
-<!-- Banner -->
+<!-- ======================== HEADER ======================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A9FF&center=true&vCenter=true&width=900&height=70&lines=+Software+Developer;Building+Generative+Simulators+%26+Retail+Intel;Engineering+High-Fidelity+AI+Integrations;Transforming+System+Designs+Into+Production+Code" alt="Yash Bansal" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Building+systems%2C+not+just+screens.;Turning+ideas+into+working+software.;Exploring+AI%2C+data%2C+and+human+stories.;Ship.+Learn.+Rebuild.+Repeat."
+    alt="Typing introduction"
+  />
 </p>
 
-<h1 align="center">👋 Hey, I'm 
-</h1>
-
 <div align="center">
-
 
 ```
 ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗  █████╗ ███╗   ██╗███████╗ █████╗ ██╗     
@@ -19,167 +23,229 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-**Full-Stack Engineer · AI Systems Builder · Agentic Pipeline Architect**
+### Full-Stack Developer · AI Systems Builder · Product Engineer
 
-*Building things that actually run in production — not just in demos.*
+*I like working where software engineering, intelligent systems, and ambitious ideas meet.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-bansal-11716333a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:demonstrikk41@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/demonstrikkk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-02050D?style=for-the-badge&logo=react&logoColor=F4C779&labelColor=02050D&color=F4C779)](https://yash-portfolio-zeta-eight.vercel.app/)
+<br/>
 
-</div>
-
----
-
-
-## 🛠 Engineering Ecosystem & Tooling
-
-Rather than just listing languages, here is how I leverage my stack to build production-grade architectures, optimize inference, and manage data lifecycle pipelines.
-
-###  Client-Side Architecture & Interfaces
-*   **Frameworks & Core:** `Next.js (App Router)` & `React 19` for hybrid server/client rendering, maximizing SEO performance and initial page loads via Server Components.
-*   **State & Optimization:** Lifecycle management utilizing native React hooks and localized context patterns, built on top of optimized bundlers via `Vite`.
-*   **Design & Motion:** Rapid UI engineering via `Tailwind CSS` coupled with headless primitive architectures like `shadcn/ui` and `Radix UI`. Micro-interactions and fluid layout transitions are handled via declarative physics-based motion in `Framer Motion`.
-
-###  Distributed Backends & Core Intelligence
-*   **Asynchronous APIs:** High-throughput backend services architected using `FastAPI (Python)` and `Node.js / Express`, leveraging asynchronous event loops to process heavy concurrent request volumes.
-*   **Machine Learning Ecosystem:** High-fidelity deep learning models constructed using `PyTorch` and `TensorFlow`, focusing on data preprocessing via `NumPy`/`Pandas` and model validation with `scikit-learn`.
-*   **Authentication & Security:** Secure session management and stateless API protection using granular cryptographically signed `JWT (JSON Web Tokens)`.
-
-###  Storage, Cloud Frameworks & DevOps
-*   **Relational & Document Storage:** Multi-tenant schemas engineered using `PostgreSQL` and `MongoDB Atlas`, optimizing high-frequency transactional queries through tailored indexing and replication schemes.
-*   **Backend-as-a-Service:** Rapid application prototyping and real-time database synchronization via `Supabase`, utilizing PostgreSQL row-level security (RLS) policies.
-*   **Deployment Infrastructure:** Zero-configuration production continuous deployment (CI/CD) pipelines engineered through `Vercel/Render/Railway`, managed locally inside optimized Unix/POSIX environments via standard `Linux Core Utilities`.
-*   **Version Control & Verification:** Enterprise-grade collaboration using branching strategies in `Git / GitHub`, with API endpoints strictly monitored, tested, and documented using structured environments in `Postman`.
----
-## Flagship Work
-
-### 🍯 HoneyCatcher + HoneyBadger Backend
-> *Real-Time Agentic Scam Mitigation Pipeline*
-
-Built to hunt scammers. Uses WebRTC to tap live audio streams, then throws a fully autonomous conversational agent at them to waste their time — indefinitely.
-
-- Architected an async full-stack pipeline (React + FastAPI) with WebRTC for live audio capture and streaming
-- Built a multi-agent LLM orchestration layer that sustains autonomous conversations, manages state transitions, and optimizes response latency without human-in-the-loop
-- Engineered low-latency backend routing to process real-time conversational state and emit telemetric flags mid-stream
-
-`React` `FastAPI` `WebRTC` `LLM Orchestration` `Async Python` `Real-Time Audio`
-
-[![HoneyCatcher](https://img.shields.io/badge/HoneyCatcher-frontend-F59E0B?style=flat-square&logo=github)](https://github.com/demonstrikkk/HoneyCatcher)
-[![HoneyBadger Backend](https://img.shields.io/badge/HoneyBadger-backend-EF4444?style=flat-square&logo=github)](https://github.com/demonstrikkk/honeybadger-backend)
-
----
-
-### 🧠 Cognivista QA *(w/ [@JRiishi](https://github.com/JRiishi))*
-> *Real-Time Call Center Intelligence Platform*
-
-Co-built with a teammate to give call center agents a second brain — surfaces answers and context during live calls, not after.
-
-- Co-developed a high-efficiency agent-assist platform to surface contextual insights during live operations
-- Engineered a high-throughput RAG architecture that parses unstructured operational data and returns deterministic answers under latency constraints
-- Implemented real-time intent-parsing to map live conversational inputs to structured organizational knowledge spaces
-
-`RAG` `Vector Search` `Intent Classification` `Python` `LLM APIs` `Collaborative`
-
-[![Cognivista QA](https://img.shields.io/badge/Cognivista_QA-repo-6366F1?style=flat-square&logo=github)](https://github.com/JRiishi/Cognivista_QA)
-
----
-
-### 👁️ Gods-Eye
-> *Fault-Tolerant Intelligence Aggregation Dashboard*
-
-OSINT data aggregator that keeps running no matter how many upstream sources die. Built defensive — because they always do.
-
-- Designed infrastructure to automate data ingestion from fragmented, unreliable external endpoints
-- Implemented exception-handling and circuit-breaker patterns to absorb upstream API timeouts, scraping failures, and rate limits without surfacing errors to the client
-- Enforced strict client-side memory boundaries — zero server-side data retention, privacy by design
-
-`Data Pipelines` `Defensive Programming` `OSINT` `API Fault-Tolerance` `Privacy-First`
-
-[![Gods-Eye](https://img.shields.io/badge/Gods--Eye-repo-10B981?style=flat-square&logo=github)](https://github.com/demonstrikkk/Gods-Eye)
-
-
-
-
-
-# 💻 Core Tooling & Tech Stack
-
-### ⚡ Client-Side Engineering & State
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
-</p>
-
-### 🖥️ Backends & Intelligence Pipelines
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-### 🧠 Deep Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKit Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-### 🗄️ Storage & Architecture Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
-
-
-## Numbers
-
-<div align="center " style="flex  gap-2 ">
-  <!-- Core Metrics Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=demonstrikkk&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="GitHub Stats" />
-  <!-- Language Composition Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=demonstrikkk&theme=vue-dark&hide_border=false&layout=compact&count_private=true" width="48%" alt="Top Languages" />
-  
-  <br /><br />
+<a href="https://www.linkedin.com/in/yash-bansal-11716333a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:heyashdevelops@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/demonstrikkk">
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://yash-portfolio-zeta-eight.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8B7355?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
+---
 
-## How I Think
+## A little about what I do
 
-```
-Ship → Break → Learn → Repeat
-```
+I build full-stack products and AI-enabled systems, with a particular interest in the engineering underneath the interface: data flows, orchestration, APIs, retrieval, real-time systems, and the details that make a prototype dependable.
 
-The gap between a developer and an engineer is production. I care about what happens when real users hit real systems under real load. Not just when the demo is running.
+Lately, my work has been moving across four connected areas:
+
+| `01` Product engineering | `02` AI & intelligent systems |
+|:--|:--|
+| Turning product ideas into usable applications, APIs, and workflows. | Building retrieval, agentic pipelines, multimodal systems, and evidence-aware AI. |
+| `03` Research & experimentation | `04` Creative technology |
+| Exploring model efficiency and system design through hands-on research. | Building interactive experiences and narrative-driven game concepts. |
 
 ---
 
+## Things I'm building
 
+*Different problems, same curiosity: how do we make complex systems useful, reliable, and genuinely interesting?*
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧌 DataGoblin</h3>
+      <strong>From a question to an evidence-backed dataset.</strong>
+      <p>Turn natural-language research requests into a traceable data-collection workflow: discover sources, crawl pages, extract structured fields, validate them, and preserve the exact evidence behind each value.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Data_Extraction-2F81F7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Evidence-First-238636?style=flat-square"/>
+      </p>
+      <p><sub>What matters: a value should be traceable to the page and passage it came from—not simply asserted by a model.</sub></p>
+      <a href="https://github.com/demonstrikkk/datagoblin"><strong>Explore repository ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ SATIQ</h3>
+      <strong>Agentic intelligence for remote sensing.</strong>
+      <p>A geospatial vision-language system for answering questions over satellite imagery, with specialist paths for visual question answering, grounding, change analysis, and optical–SAR evidence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Remote_Sensing-2F81F7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Architecture-Specialist_Pipeline-8957E5?style=flat-square"/>
+      </p>
+      <p><sub>Current engineering focus: routing, model integration, evidence flow, and explicit handling when a model is not connected.</sub></p>
+      <a href="https://github.com/demonstrikkk/SATIQ"><strong>Explore repository ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Gods-Eye OS</h3>
+      <strong>A resilient intelligence aggregation experience.</strong>
+      <p>Exploring how fragmented information sources can be brought together through robust ingestion, fault-tolerant integrations, and a clear user-facing interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Information_Aggregation-2F81F7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Engineering-Resilience-238636?style=flat-square"/>
+      </p>
+      <p><sub>The core source repository is private; the public-facing project page is available below.</sub></p>
+      <a href="https://github.com/demonstrikkk/gods-eye-os-landing"><strong>View project page ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍯 HoneyBadger</h3>
+      <strong>Real-time, agentic scam mitigation.</strong>
+      <p>A real-time conversational system built around live audio workflows, WebRTC, asynchronous backend services, and agent orchestration. The goal is to detect and engage suspicious interactions while tracking conversational state.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Scam_Mitigation-F59E0B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Mode-Real_Time-238636?style=flat-square"/>
+      </p>
+      <p><sub>The frontend repository is named HoneyCatcher; the backend repository is HoneyBadger.</sub></p>
+      <a href="https://github.com/demonstrikkk/HoneyCatcher"><strong>Frontend ↗</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/demonstrikkk/honeybadger-backend"><strong>Backend ↗</strong></a>
+    </td>
+  </tr>
+</table>
 
-<!-- <p align="center"> -->
-  <!-- Minimalist Profile Views Counter -->
-<!-- <img src="https://komarev.com/ghpvc/?username=demonstrikkk&color=00A9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /> -->
-<!-- </p> -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+  <summary><strong>🎮 THE LAST BLINK — narrative game in development</strong></summary>
+  <br/>
+  A story-driven game built around memory, consequence, and repeating timelines.
 
-<p align="center">⭐ Follow my journey as I build, break, learn, and scale — one project at a time!</p>
+  Chapter 1 follows a protagonist through an unfolding apocalypse: a child is rescued, deaths trigger loops, and events converge around a pivotal moment at 15:02. The timeline ultimately points toward the end of the world on **18 October 2085**.
 
+  One of the story's central threads follows the rescued child's mother, a scientist researching a brain-circuit approach to fading memories. Her work leads toward **ECHO**, a device intended to preserve and retrieve memories. The player's choices around the child can alter her future, the completion of ECHO, and what the protagonist remembers across timelines.
 
+  <p><em>The story is being developed chapter by chapter; this is a creative project in progress.</em></p>
+</details>
 
+---
+
+## Research notebook
+
+### Token-Efficient Multimodal Understanding
+**Current research:** *Token-Efficient Multimodal Understanding: A Hierarchical Compression Pipeline for Long Video, Audio and Text*
+
+I'm currently exploring a hierarchical compression approach for long-form multimodal inputs—video, audio, and text—with an emphasis on reducing token usage while retaining the information needed for downstream understanding.
+
+<details>
+  <summary><strong>What I'm investigating</strong></summary>
+  <ul>
+    <li>Hierarchical representations for long video, audio, and text sequences.</li>
+    <li>What information should be preserved, compressed, or discarded at each stage.</li>
+    <li>Token efficiency versus semantic and temporal information retention.</li>
+    <li>How compressed multimodal context can remain useful for later reasoning.</li>
+  </ul>
+  <sub>Ongoing research and exploration—not a published paper.</sub>
+</details>
+
+---
+
+## Building beyond code
+
+### 🤝 Co-founder — <a href="https://github.com/L-OO-M/L-OO-M">LOOM</a>
+
+LOOM is a student-led organisation we're starting around four connected ideas:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/L-Learning-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/O-Opportunity-238636?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/O-Open_Source-8957E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/M-Mentorship-D29922?style=for-the-badge"/>
+</p>
+
+The ambition is to create a community where people learn together, find opportunities to build, contribute to open source, and pass knowledge forward through mentorship.
+
+**Learn → Build → Contribute → Mentor → Repeat**
+
+<a href="https://github.com/L-OO-M/L-OO-M"><strong>Explore LOOM on GitHub ↗</strong></a>
+
+---
+
+## My engineering toolkit
+
+I choose tools based on the problem rather than trying to force every project into one stack.
+
+<details open>
+  <summary><strong>Frontend & product interfaces</strong></summary>
+  <br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,tailwind,html,css" alt="Frontend technologies"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Backend & APIs</strong></summary>
+  <br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,cpp" alt="Backend technologies"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>AI, machine learning & data</strong></summary>
+  <br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,sklearn" alt="AI and machine learning technologies"/>
+    <br/>
+    `Pandas` · `RAG` · `Vector Search` · `LLM APIs` · `Agent Orchestration` · `Multimodal Systems`
+  </p>
+</details>
+
+<details>
+  <summary><strong>Databases, infrastructure & developer tools</strong></summary>
+  <br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,nginx,linux,git,github,postman" alt="Infrastructure and developer tools"/>
+  </p>
+</details>
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=demonstrikkk&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonstrikkk&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=demonstrikkk&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=demonstrikkk&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph"/>
+</p>
+
+---
+
+## The way I work
+
+<p align="center">
+  <strong>Explore</strong> &nbsp;→&nbsp;
+  <strong>Prototype</strong> &nbsp;→&nbsp;
+  <strong>Understand</strong> &nbsp;→&nbsp;
+  <strong>Engineer</strong> &nbsp;→&nbsp;
+  <strong>Ship</strong> &nbsp;→&nbsp;
+  <strong>Repeat</strong>
+</p>
+
+I enjoy the messy middle: turning an unclear problem into a system, finding where the first version breaks, and improving it until the pieces work together. I care about the reasoning behind an architecture just as much as the code that implements it.
+
+---
+
+<p align="center">
+  <i>Curious by default. Building by choice.</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=demonstrikkk&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
